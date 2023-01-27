@@ -1,0 +1,3 @@
+[submodule "parser/diagram_parser/PGDP"]
+	path = parser/diagram_parser/PGDP
+	url = https://github.com/mingliangzhang2018/PGDP
