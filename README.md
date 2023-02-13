@@ -11,7 +11,7 @@ In this paper, we propose **GeoDRL**, a self-learning geometry problem solving f
 unzip data files by running:
 
 ```shell
-. data/unzip_data.sh
+sh unzip_data.sh
 ```
 
 ## Requirements
